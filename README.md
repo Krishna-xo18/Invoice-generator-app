@@ -17,9 +17,6 @@ A web application that allows shopkeepers to track all transactions, generate in
   - Download and print invoices
   - No extra cost for generating and managing invoices
 
-## Demo
-
-[Watch the demo video here](link-to-demo-video)
 
 ## Installation
 
